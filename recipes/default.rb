@@ -25,5 +25,6 @@ compile_time do
     action :install
   end
 
-  yum_package 'mysql-community-server'
+#  yum_package 'mysql-community-server'
+
 end
